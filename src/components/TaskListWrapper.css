@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+}
+
+.main {
+    background: #ffd4b5;
+    margin-top: 5rem;
+    padding: 2rem;
+    border-radius: 5px;
+}

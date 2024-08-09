@@ -1,8 +1,11 @@
 import './App.css';
+import {TaskListWrapper} from './components/TaskListWrapper';
 
 function App() {
   return (
-    <h1>Hello Lizaveta</h1>
+    <div className="App">
+        <TaskListWrapper />
+    </div>
   );
 }
 
